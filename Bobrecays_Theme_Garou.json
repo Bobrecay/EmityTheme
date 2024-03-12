@@ -1,7 +1,7 @@
 {
-  "name": "Bobrecays_Theme_Garou",
+  "name": "Bobrecays_Theme_Marin_Kitagawa",
   "version": "1.0",
-  "description": "Garou Theme for Enmity",
+  "description": "Marin Kitagawa Theme for Enmity",
   "color": "#ff0000",
   "authors": [
 	{
@@ -154,7 +154,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://wallhaven.cc/w/m9kvrk",
+    "url": "https://raw.githubusercontent.com/Bobrecay/EmityTheme/main/wallhaven-m9kvrk.png",
     "alpha": 0.7
   }
 }
