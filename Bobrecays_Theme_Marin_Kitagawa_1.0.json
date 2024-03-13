@@ -153,8 +153,8 @@
     "CHAT_GREY": "#000000"
   },
   "background": {
-    "blur": 0.1,
+    "blur": 0.0,
     "url": "https://raw.githubusercontent.com/Bobrecay/EmityTheme/main/wallhaven-m9kvrk.png",
-    "alpha": 0.5
+    "alpha": 0.7
   }
 }
